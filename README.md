@@ -1,3 +1,4 @@
+FULL CREDITS TO AC, JC, and the other creators that made this code. I only modified it so that I would be able to run it through my own server. Please check out the amazing code that they made.
 # Codebuilder [BETA]
 Automates creating a Codebusters test for Science Olympiad practice. Outputs a json file that can be imported directly to Toebes.
 
